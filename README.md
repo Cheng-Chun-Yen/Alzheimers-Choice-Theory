@@ -11,21 +11,22 @@
 ### Abstract (EN)
 
 Alzheimer’s Choice Theory (ACT) proposes a closed-causal framework (ACT-CCF) built upon the Non-Thinking Hypothesis and the Non-Degenerative Brain Hypothesis. The theory posits that a sustained interruption of “thinking behavior” acts as the primary causal driver for Alzheimer’s disease, while traditional biological models (Amyloid/Tau/Vascular/Inflammation) are treated as outer projections describing phenomenology rather than core causation. This repository provides a versioned, multi-layer verification scheme (Zenodo DOI, ArDrive TXID, SHA-256) to ensure archival integrity and reproducibility of the theoretical statements and artifacts.
+**Keywords:** Alzheimer’s disease; closed-causal framework; Non-Thinking Hypothesis; Non-Degenerative Brain Hypothesis; ACT-CCF; provenance; verification
 
 ---
 
 ## 📖 Table of Contents
 
-- [Abstract (EN)](#abstract-en)
-- [Quick Links](#quick-links)
-- [Closed-Causal Theoretical Framework for Alzheimer’s Disease (ACT-CCF)](#closed-causal-theoretical-framework-for-alzheimers-disease-act-ccf)
-- [Boundary & Non-Assimilation Statement（邊界與非吸納聲明）](#boundary--non-assimilation-statement邊界與非吸納聲明)
-- [Scope & Non-Claim（範圍與非醫療宣稱）](#scope--non-claim範圍與非醫療宣稱)
-- [License / 授權](#license--授權)
-- [Version Control / 版本控制](#version-control--版本控制)
-- [Latest Release (V1.0 ZH)](#latest-release-v10-zh)
-- [How to Cite](#how-to-cite)
-- [Verification Records](#verification-records)
+- [Abstract (EN)](#-abstract-en)
+- [Quick Links](#-quick-links)
+- [Closed-Causal Theoretical Framework for Alzheimer’s Disease (ACT-CCF)](#-closed-causal-theoretical-framework-for-alzheimers-disease-act-ccf)
+- [Boundary & Non-Assimilation Statement（邊界與非吸納聲明）](#-boundary--non-assimilation-statement邊界與非吸納聲明)
+- [Scope & Non-Claim（範圍與非醫療宣稱）](#-scope--non-claim範圍與非醫療宣稱)
+- [License / 授權](#-license--授權)
+- [Version Control / 版本控制](#-version-control--版本控制)
+- [Latest Release (V1.0 ZH)](#-latest-release-v10-zh)
+- [How to Cite](#-how-to-cite)
+- [Verification Records](#-verification-records)
 
 ---
 
@@ -112,6 +113,7 @@ D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67<br>
 🔗 ArDrive TXID： [Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc](https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc)  
 🧾 DOI (Zenodo)： [10.5281/zenodo.17388754](https://doi.org/10.5281/zenodo.17388754)  
 🔒 License： [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+_Last updated: 2025-10-19 (Asia/Taipei)_
 
 ---
 
