@@ -20,4 +20,11 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 
 ---
 
+### 📄 Latest Release (PDF)
+**Alzheimer’s Choice Theory (ACT) — V1.0 Final Draft (ZH)**  
+[📘 View / Download PDF](./V1.0_Final_Draft_ZH/Alzheimers-Choice-Theory-V1.0-Final-Draft-ZH.pdf)  
+🔗 ArDrive TXID: [Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc](https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc)
+
+---
+
 © 2025 Cheng-Chun Yen (顏誠均). All Rights Reserved.
