@@ -47,7 +47,7 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
   [10.5281/zenodo.17388754](https://doi.org/10.5281/zenodo.17388754)
 
 - **ArDrive TXID（Arweave Link）**：  
-  [Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc](https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc)
+  [Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc](https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc)
 
 - **SHA-256 Checksum**（for `V1.0_Final_Draft_ZH.pdf`）：<br>
 D0B863CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67<br>
