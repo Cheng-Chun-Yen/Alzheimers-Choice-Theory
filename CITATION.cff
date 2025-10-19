@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)"
+abstract: "A closed-causal theoretical framework (ACT-CCF) based on the Non-Thinking Hypothesis and the Non-Degenerative Brain Hypothesis."
+authors:
+  - family-names: Yen
+    given-names: Cheng-Chun
+    name-particle: C.-C.
+    orcid: "https://orcid.org/0009-0005-9740-1701"  
+license: CC-BY-4.0
+repository-code: "https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory"
+doi: 10.5281/zenodo.17388754
+url: "https://doi.org/10.5281/zenodo.17388754"
+keywords:
+  - Alzheimer's disease
+  - Closed-causal framework
+  - Non-Thinking Hypothesis
+  - Non-Degenerative Brain Hypothesis
+  - ACT-CCF
+version: "V1.0 (ZH)"
+date-released: "2025-10-19"
+preferred-citation:
+  type: misc
+  authors:
+    - family-names: Yen
+      given-names: Cheng-Chun
+      name-particle: C.-C.
+  title: "Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)"
+  year: 2025
+  doi: 10.5281/zenodo.17388754
