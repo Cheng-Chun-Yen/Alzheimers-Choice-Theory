@@ -31,5 +31,12 @@ The full PDF is on Zenodo, and metadata proof is anchored on ArDrive.
 - **Author ORCID** → https://orcid.org/0009-0005-9740-1701
 - **License** → https://creativecommons.org/licenses/by/4.0/
 
+---
+
+### 📄 Full Text PDF
+[Download or View on GitHub](./Alzheimers-Choice-Theory-V1.0-Final-Draft-ZH.pdf)  
+ArDrive TXID → [Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc](https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc)
+
+
 © 2025 Cheng-Chun Yen (顏誠均). All rights reserved under CC BY 4.0.  
 This repository is part of the **Alzheimer’s Choice Theory Closed-Causal Framework (ACT-CCF)**.
