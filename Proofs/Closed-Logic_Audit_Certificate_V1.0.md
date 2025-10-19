@@ -14,7 +14,7 @@ The audit confirms that the theoretical structure is internally closed and self-
 |:--|:--|
 | Zenodo DOI | [10.5281/zenodo.17388754](https://doi.org/10.5281/zenodo.17388754) |
 | ArDrive TXID | [ Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc ](https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc) |
-| SHA-256 | `D0B863CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67` |
+| SHA-256 | `D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67` |
 | Language | Mandarin Chinese |
 | License | Creative Commons Attribution 4.0 International (CC BY 4.0) |
 | Audit Date | 2025-10-19 |
