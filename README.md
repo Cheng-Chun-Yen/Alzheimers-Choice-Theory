@@ -20,10 +20,13 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 
 ---
 
-### 📄 Latest Release (PDF)
-**Alzheimer’s Choice Theory (ACT) — V1.0 Final Draft (ZH)**  
-[📘 View / Download PDF](./V1.0_Final_Draft_ZH/Alzheimers-Choice-Theory-V1.0-Final-Draft-ZH.pdf)  
-🔗 ArDrive TXID: [Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc](https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc)
+### 📄 Latest Release (V1.0 ZH)
+**Alzheimer’s Choice Theory (ACT)** — V1.0 Final Draft (ZH)
+
+📘 [View / Download PDF](./V1.0_Final_Draft_ZH/Alzheimers-Choice-Theory-V1.0-Final-Draft-ZH.pdf)  
+🔗 ArDrive TXID: [Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc](https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc)  
+🧾 DOI (Zenodo): [10.5281/zenodo.17388754](https://doi.org/10.5281/zenodo.17388754)  
+🔒 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
