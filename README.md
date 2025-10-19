@@ -14,7 +14,7 @@
 - 🧠 **DOI（Zenodo）**：  
   <https://doi.org/10.5281/zenodo.17388754>
 - ⛓️ **ArDrive TXID**（Arweave）：  
-  <https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc>
+  <https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc>
 - 🧾 **SHA-256**：  
   `D0B863CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67`  
   （Raw 檔： [Proofs/SHA256.txt](https://raw.githubusercontent.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/refs/heads/main/Proofs/SHA256.txt)）
@@ -70,7 +70,7 @@ D0B863CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67<br>
 **Alzheimer’s Choice Theory (ACT)** — V1.0 Final Draft (ZH)
 
 📘 [View / Download PDF](./V1.0_Final_Draft_ZH/Alzheimers-Choice-Theory-V1.0-Final-Draft-ZH.pdf)  
-🔗 ArDrive TXID： [Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc](https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc)  
+🔗 ArDrive TXID： [Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc](https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc)  
 🧾 DOI (Zenodo)： [10.5281/zenodo.17388754](https://doi.org/10.5281/zenodo.17388754)  
 🔒 License： [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
