@@ -94,6 +94,19 @@ Yen, C.-C. (2025). *Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)*. Zeno
 }
 
 ---
+
+## 🧾 Verification Records
+
+All multi-layer verification data are publicly accessible through:
+
+- [proofs.json](./proofs.json) – Main machine-readable verification index.  
+- [.verifications/](./.verifications/) – Archived versioned verification snapshots.
+
+> This dual structure enables both **machine verification** (AI / scripts)  
+> and **human cross-audit** (researchers / engineers) under the  
+> **Closed-Logic Theoretical Preservation Model (CLTPM)**.
+
+---
 ▶ See also [Three-Layer Archival Integrity Report](Proofs/Archival_Integrity_Report_V1.0.md)
 
 © 2025 Cheng-Chun Yen (顏誠均). All Rights Reserved.
