@@ -30,4 +30,6 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 
 ---
 
+▶ See [Three-Layer Archival Integrity Report (Proofs/Archival_Integrity_Report_V1.0.md)](Proofs/Archival_Integrity_Report_V1.0.md)
+
 © 2025 Cheng-Chun Yen (顏誠均). All Rights Reserved.
