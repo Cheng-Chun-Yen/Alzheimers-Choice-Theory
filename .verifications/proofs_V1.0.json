@@ -1,0 +1,7 @@
+{
+  "version": "V1.0",
+  "snapshot": "2025-10-19T11:00+08:00",
+  "based_on": "../proofs.json",
+  "integrity_hash": "D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67",
+  "note": "This is a frozen archival snapshot of proofs.json under CLTPM structure."
+}
