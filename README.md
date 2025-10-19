@@ -17,15 +17,15 @@ Alzheimer’s Choice Theory (ACT) proposes a closed-causal framework (ACT-CCF) b
 ## 📖 Table of Contents
 
 - [Abstract (EN)](#abstract-en)
-- [🔗 Quick Links](#-quick-links)
-- [Closed-Causal Theoretical Framework (ACT-CCF)](#closed-causal-theoretical-framework-for-alzheimers-disease-act-ccf)
+- [Quick Links](#quick-links)
+- [Closed-Causal Theoretical Framework for Alzheimer’s Disease (ACT-CCF)](#closed-causal-theoretical-framework-for-alzheimers-disease-act-ccf)
 - [Boundary & Non-Assimilation Statement（邊界與非吸納聲明）](#boundary--non-assimilation-statement邊界與非吸納聲明)
 - [Scope & Non-Claim（範圍與非醫療宣稱）](#scope--non-claim範圍與非醫療宣稱)
-- [📑 Version Control / 版本控制](#-version-control--版本控制)
-- [📄 Latest Release (V1.0 ZH)](#-latest-release-v10-zh)
-- [📚 How to Cite](#-how-to-cite)
-- [🧾 Verification Records](#-verification-records)
-- [🔒 License / 授權](#-license--授權)
+- [License / 授權](#license--授權)
+- [Version Control / 版本控制](#version-control--版本控制)
+- [Latest Release (V1.0 ZH)](#latest-release-v10-zh)
+- [How to Cite](#how-to-cite)
+- [Verification Records](#verification-records)
 
 ---
 
