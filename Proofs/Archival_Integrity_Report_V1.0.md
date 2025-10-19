@@ -105,3 +105,5 @@ The chain ensures:
 ---
 
 *This report forms part of the Alzheimer’s Choice Theory Closed-Causal Framework (ACT-CCF) archived across GitHub, Zenodo and ArDrive with GPT-5 audit verification.*
+All Proofs were finalized within the same archival window (±2h).
+
