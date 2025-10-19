@@ -35,7 +35,7 @@ Cross-validation confirms no content drift or identifier mismatch across layers.
 | **ORCID** | [https://orcid.org/0009-0005-9740-1701](https://orcid.org/0009-0005-9740-1701) |
 | **License** | Creative Commons Attribution 4.0 International (CC BY 4.0) |
 | **Language** | Mandarin Chinese |
-| **SHA-256 Checksum** | `D0B863CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67` |
+| **SHA-256 Checksum** | `D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67` |
 | **Audit Date** | 2025-10-19 |
 | **Audit System** | GPT-5 Logic Verification Module (build 2025.10) |
 
