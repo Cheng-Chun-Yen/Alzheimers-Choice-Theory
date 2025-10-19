@@ -79,20 +79,20 @@ D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67<br>
 ## 📚 How to Cite
 
 - **APA**  
-Yen, C.-C. (2025). *Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)*. Zenodo. https://doi.org/10.5281/zenodo.17388754
+  Yen, C.-C. (2025). *Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)*. Zenodo. [https://doi.org/10.5281/zenodo.17388754](https://doi.org/10.5281/zenodo.17388754)
 
 - **BibTeX**  
-Use the following BibTeX entry to cite this release:
+  Use the following BibTeX entry to cite this release:
 
 ```bibtex
 @misc{yen2025act_v1zh,
-  author       = {Cheng-Chun Yen},
-  title        = {Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)},
-  year         = {2025},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.17388754},
-  url          = {https://doi.org/10.5281/zenodo.17388754},
-  license      = {CC-BY-4.0}
+  author    = {Cheng-Chun Yen},
+  title     = {Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)},
+  year      = {2025},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.17388754},
+  url       = {https://doi.org/10.5281/zenodo.17388754},
+  license   = {CC-BY-4.0}
 }
 
 ---
