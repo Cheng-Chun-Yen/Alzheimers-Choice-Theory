@@ -50,7 +50,7 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
   [Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc](https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc)
 
 - **SHA-256 Checksum**（for `V1.0_Final_Draft_ZH.pdf`）：<br>
-D0B863CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67<br>
+D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67<br>
 📜 （Raw 檔： [Proofs/SHA256.txt](https://raw.githubusercontent.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/refs/heads/main/Proofs/SHA256.txt)）
 
 ---
