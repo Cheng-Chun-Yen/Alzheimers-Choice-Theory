@@ -17,7 +17,7 @@
   <https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc>
 - 🧾 **SHA-256**：  
   `D0B863CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67`  
-  （Raw 檔：`[Proofs/SHA256.txt](https://raw.githubusercontent.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/refs/heads/main/Proofs/SHA256.txt)`）
+  （Raw 檔： [Proofs/SHA256.txt](https://raw.githubusercontent.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/refs/heads/main/Proofs/SHA256.txt)）
 - ✅ **Closed-Logic Audit Certificate**：  
   [`Proofs/Closed-Logic_Audit_Certificate_V1.0.md`](Proofs/Closed-Logic_Audit_Certificate_V1.0.md)
 - 🧪 **Technical Remark**（GPT-5 Logic Consistency Audit Record）：  
@@ -41,10 +41,28 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 
 ---
 
-## 🧾 Version Control / 版本控制
-- Zenodo DOI: [https://doi.org/10.5281/zenodo.17388754](https://zenodo.org/records/17388754)
-- ArDrive TXID: [https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc](https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc)
-- SHA-256 Checksum（for `V1.0_Final_Draft_ZH.pdf`）：[D0B863CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67](https://raw.githubusercontent.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/refs/heads/main/Proofs/SHA256.txt)
+## 📑 Version Control / 版本控制
+
+- **Zenodo DOI**：  
+  [10.5281/zenodo.17388754](https://doi.org/10.5281/zenodo.17388754)
+
+- **ArDrive TXID（Arweave Link）**：  
+  [Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc](https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc)
+
+- **SHA-256 Checksum**（for `V1.0_Final_Draft_ZH.pdf`）：  
+D0B863CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67
+📜 （Raw 檔： [Proofs/SHA256.txt](https://raw.githubusercontent.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/refs/heads/main/Proofs/SHA256.txt)）
+
+---
+
+> **Cross-Verification Integrity Rule：**  
+> Every checksum and identifier in this repository is verifiable through  
+> - Zenodo metadata (DOI)  
+> - ArDrive permanent TXID  
+> - GitHub Proofs directory (raw access)  
+>  
+> This structure ensures **Three-Layer Archival Integrity**  
+> under the **Closed-Logic Theoretical Preservation Model (CLTPM)**.
 
 ---
 
@@ -52,31 +70,30 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 **Alzheimer’s Choice Theory (ACT)** — V1.0 Final Draft (ZH)
 
 📘 [View / Download PDF](./V1.0_Final_Draft_ZH/Alzheimers-Choice-Theory-V1.0-Final-Draft-ZH.pdf)  
-🔗 ArDrive TXID: [Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc](https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc)  
-🧾 DOI (Zenodo): [10.5281/zenodo.17388754](https://doi.org/10.5281/zenodo.17388754)  
-🔒 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+🔗 ArDrive TXID： [Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc](https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc)  
+🧾 DOI (Zenodo)： [10.5281/zenodo.17388754](https://doi.org/10.5281/zenodo.17388754)  
+🔒 License： [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
 ## 📚 How to Cite
 
 - **APA**  
-  Yen, C.-C. (2025). *Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)*. Zenodo. https://doi.org/10.5281/zenodo.17388754
+Yen, C.-C. (2025). *Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)*. Zenodo. https://doi.org/10.5281/zenodo.17388754
 
 - **BibTeX**
-  ```bibtex
-  @misc{yen2025act_v1zh,
-    author       = {Cheng-Chun Yen},
-    title        = {Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)},
-    year         = {2025},
-    publisher    = {Zenodo},
-    doi          = {10.5281/zenodo.17388754},
-    url          = {https://doi.org/10.5281/zenodo.17388754},
-    license      = {CC-BY-4.0}
-  }
+```bibtex
+@misc{yen2025act_v1zh,
+  author       = {Cheng-Chun Yen},
+  title        = {Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17388754},
+  url          = {https://doi.org/10.5281/zenodo.17388754},
+  license      = {CC-BY-4.0}
+}
 
 ---
-
-▶ See [Three-Layer Archival Integrity Report (Proofs/Archival_Integrity_Report_V1.0.md)](Proofs/Archival_Integrity_Report_V1.0.md)
+▶ See also [Three-Layer Archival Integrity Report](Proofs/Archival_Integrity_Report_V1.0.md)
 
 © 2025 Cheng-Chun Yen (顏誠均). All Rights Reserved.
