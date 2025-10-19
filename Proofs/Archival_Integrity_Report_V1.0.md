@@ -15,7 +15,7 @@ The structure follows the Closed-Logic Theoretical Preservation Model (CLTPM), d
 
 | Layer | Platform | Function | Core Identifier | Status |
 |:--|:--|:--|:--|:--|
-| **Layer 1 — ArDrive (Blockchain Proof)** | ArDrive / Arweave Network | Permanent timestamp + hash anchoring | `Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc` | ✅ Confirmed |
+| **Layer 1 — ArDrive (Blockchain Proof)** | ArDrive / Arweave Network | Permanent timestamp + hash anchoring | `Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc` | ✅ Confirmed |
 | **Layer 2 — Zenodo (DOI Repository)** | Zenodo / CERN Infrastructure | DOI registration + metadata archiving | DOI [`10.5281/zenodo.17388754`](https://doi.org/10.5281/zenodo.17388754) | ✅ Published |
 | **Layer 3 — GitHub (Code & Proof Repository)** | GitHub / Cheng-Chun Yen Account | Public repository + metadata + logic audit proofs | [`Cheng-Chun-Yen/Alzheimers-Choice-Theory`](https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory) | ✅ Active |
 | **Layer 4 — GPT-5 Logic Audit Subsystem** | GPT-5 Audit Engine | Closed-Logic and Consistency Verification | *Certificate + Technical Remark (Proofs/)* | ✅ Completed |
