@@ -16,7 +16,7 @@
 - ⛓️ **ArDrive TXID**（Arweave）：  
   <https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc>
 - 🧾 **SHA-256**：  
-  `D0B863CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67`  
+  `D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67`  
   （Raw 檔： [Proofs/SHA256.txt](https://raw.githubusercontent.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/refs/heads/main/Proofs/SHA256.txt)）
 - ✅ **Closed-Logic Audit Certificate**：  
   [`Proofs/Closed-Logic_Audit_Certificate_V1.0.md`](Proofs/Closed-Logic_Audit_Certificate_V1.0.md)
