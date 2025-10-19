@@ -6,8 +6,8 @@ authors:
   - family-names: Yen
     given-names: Cheng-Chun
     name-particle: C.-C.
-    orcid: "https://orcid.org/0009-0005-9740-1701"  
-license: CC-BY-4.0
+    orcid: "https://orcid.org/0009-0005-9740-1701"
+license: "CC-BY-4.0"
 repository-code: "https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory"
 doi: 10.5281/zenodo.17388754
 url: "https://doi.org/10.5281/zenodo.17388754"
@@ -28,3 +28,5 @@ preferred-citation:
   title: "Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)"
   year: 2025
   doi: 10.5281/zenodo.17388754
+  publisher: "Zenodo"
+  url: "https://doi.org/10.5281/zenodo.17388754"
