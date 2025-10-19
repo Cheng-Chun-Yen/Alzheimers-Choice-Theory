@@ -98,21 +98,23 @@ D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67<br>
 
 ---
 
-🧾 Verification Records
+## 🧾 Verification Records
 
-All multi-layer verification data are publicly accessible through:
+All multi-layer verification data are publicly accessible through:  
 
-proofs.json – Main machine-readable verification index.
+- [proofs.json](./proofs.json) – Main machine-readable verification index.  
+- [.verifications/](./.verifications/) – Archived versioned verification snapshots.  
 
-.verifications/ – Archived versioned verification snapshots.
+> This dual structure enables both **machine verification** (AI / scripts)  
+> and **human cross-audit** (researchers / engineers) under the  
+> **Closed-Logic Theoretical Preservation Model (CLTPM)**.  
+>  
+> These verification structures collectively ensure permanent, cross-platform,  
+> and independently verifiable archival integrity of the Alzheimer's Choice Theory (ACT) repository.
 
-This dual structure enables both machine verification (AI / scripts)
-and human cross-audit (researchers / engineers) under the
-Closed-Logic Theoretical Preservation Model (CLTPM).
+---
 
-These verification structures collectively ensure permanent, cross-platform,
-and independently verifiable archival integrity of the Alzheimer's Choice Theory (ACT) repository.
-
-▶ See also Three-Layer Archival Integrity Report
+▶ See also [Three-Layer Archival Integrity Report](Proofs/Archival_Integrity_Report_V1.0.md)
 
 © 2025 Cheng-Chun Yen (顏誠均). All Rights Reserved.
+
