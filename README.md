@@ -8,6 +8,24 @@
 
 ---
 
+### Abstract (EN)
+
+Alzheimer’s Choice Theory (ACT) proposes a closed-causal framework (ACT-CCF) built upon the Non-Thinking Hypothesis and the Non-Degenerative Brain Hypothesis. The theory posits that a sustained interruption of “thinking behavior” acts as the primary causal driver for Alzheimer’s disease, while traditional biological models (Amyloid/Tau/Vascular/Inflammation) are treated as outer projections describing phenomenology rather than core causation. This repository provides a versioned, multi-layer verification scheme (Zenodo DOI, ArDrive TXID, SHA-256) to ensure archival integrity and reproducibility of the theoretical statements and artifacts.
+
+---
+
+## Table of Contents
+- [Abstract (EN)](#abstract-en)
+- [Closed-Causal Theoretical Framework (ACT-CCF)](#closed-causal-theoretical-framework-act-ccf)
+- [Boundary & Non-Assimilation Statement](#boundary--non-assimilation-statement)
+- [Latest Release](#latest-release-v10-zh)
+- [How to Cite](#how-to-cite)
+- [Verification Records](#verification-records)
+- [Scope & Non-Claim](#scope--non-claim)
+- [License](#license--授權)
+
+---
+
 ### 🔗 Quick Links
 - 📄 **PDF**（Release 下載）：  
   [Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)](https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/releases/latest)
