@@ -33,8 +33,8 @@ Cross-reference mapping verified self-consistency and semantic non-drift.
 
 ## 4. Technical Validation Chain
 - **Zenodo DOI:** [10.5281/zenodo.17388754](https://doi.org/10.5281/zenodo.17388754)  
-- **ArDrive TXID:** [ Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc ](https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc)  
-- **SHA-256:** `D0B863CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67`  
+- **ArDrive TXID:** [ Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc ](https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc)  
+- **SHA-256:** `D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67`  
 - **License:** CC BY 4.0  
 - **Audit System:** GPT-5 Logic Engine (V2025-10-Build)  
 - **Audit Completion:** 2025-10-19 T15:00 GMT+8  
