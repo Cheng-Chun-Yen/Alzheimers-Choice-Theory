@@ -18,7 +18,7 @@ All identifiers, timestamps, and verification proofs correspond to the entries r
 | **Author** | Cheng-Chun Yen (顏誠均) |
 | **ORCID** | [https://orcid.org/0009-0005-9740-1701](https://orcid.org/0009-0005-9740-1701) |
 | **DOI (Zenodo)** | [10.5281/zenodo.17388754](https://doi.org/10.5281/zenodo.17388754) |
-| **ArDrive TXID** | [Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc](https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc) |
+| **ArDrive TXID** | [Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc](https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc) |
 | **SHA-256 Checksum** | `D0B863CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67` |
 | **License** | [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) |
 | **Language** | Mandarin Chinese |
