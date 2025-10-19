@@ -9,7 +9,7 @@
 ---
 
 ## 🧩 Metadata Proof Chain
-- **ArDrive TXID**: `Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc`
+- **ArDrive TXID**: `Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc`
 - **SHA-256**: `D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67`
 - **License**: CC BY 4.0
 - **DOI (Zenodo)**: https://doi.org/10.5281/zenodo.17388754
@@ -27,7 +27,7 @@ The full PDF is on Zenodo, and metadata proof is anchored on ArDrive.
 
 ## 🔗 Cross References
 - **Zenodo** → DOI: https://doi.org/10.5281/zenodo.17388754
-- **ArDrive TXID** → https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc
+- **ArDrive TXID** → https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc
 - **Author ORCID** → https://orcid.org/0009-0005-9740-1701
 - **License** → https://creativecommons.org/licenses/by/4.0/
 
@@ -35,7 +35,7 @@ The full PDF is on Zenodo, and metadata proof is anchored on ArDrive.
 
 ### 📄 Full Text PDF
 [Download or View on GitHub](./Alzheimers-Choice-Theory-V1.0-Final-Draft-ZH.pdf)  
-ArDrive TXID → [Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc](https://arweave.net/Mk4i8oEVYKIRQVEZzac3FLUQ25therqQfVxXAnkwYc)
+ArDrive TXID → [Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc](https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc)
 
 
 © 2025 Cheng-Chun Yen (顏誠均). All rights reserved under CC BY 4.0.  
