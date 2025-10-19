@@ -1,0 +1,31 @@
+{
+  "version": "V1.0",
+  "language": "ZH",
+  "release_date": "2025-10-19",
+  "zenodo": {
+    "doi": "10.5281/zenodo.17388754",
+    "url": "https://doi.org/10.5281/zenodo.17388754"
+  },
+  "arweave": {
+    "txid": "Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc",
+    "url": "https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc"
+  },
+  "github": {
+    "sha256": "D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67",
+    "sha256_file": "https://raw.githubusercontent.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/refs/heads/main/Proofs/SHA256.txt",
+    "commit": "368942c"
+  },
+  "proofs": {
+    "audit_certificate": "Proofs/Closed-Logic_Audit_Certificate_V1.0.md",
+    "technical_remark": "Proofs/Technical_Remark_GPT5_Logic_Consistency_Audit_Record.md",
+    "archival_report": "Proofs/Archival_Integrity_Report_V1.0.md",
+    "release_notes": "Proofs/Release_Notes_V1.0_ZH.md"
+  },
+  "cltpm_layers": [
+    "Zenodo DOI",
+    "ArDrive TXID",
+    "GitHub SHA256",
+    "Proofs JSON Index"
+  ],
+  "timestamp": "2025-10-19T11:00+08:00"
+}
