@@ -35,6 +35,24 @@
 
 ---
 
+### Boundary & Non-Assimilation Statement（邊界與非吸納聲明）
+
+本理論（ACT-CCF）採取封閉因果結構，將「思考行為的中斷」視為致病核心變因，並以「不思考假說」與「大腦不退化假說」構成閉環。爲避免被開放式框架（如：Cognitive Reserve、Brain Maintenance、STAC、Life Course/Resilience 叢集）追溯性吸納或概念重標，本理論在邏輯上採以下限制：
+
+1. **封閉性**：ACT-CCF 的因果鏈條在理論內完結；外部變項僅作投影或邊界條件，不構成致病主因。
+2. **非吸納**：任何後續研究若以開放框架之「儲備／補償」概念加以詮釋，均不得反向改寫或併入本理論之核心定義。
+3. **外投影（允許）**：生物模型（Amyloid/Tau/Vascular/Inflammation）與 Dynamic Retrogenesis 可作爲外層投影映射，用以描述現象層，但不改動 ACT-CCF 的內核因果。
+
+> 本段落僅釐清理論邊界，避免語義誤分類，非臨床治療宣稱。
+
+---
+
+### Scope & Non-Claim（範圍與非醫療宣稱）
+
+本庫為理論研究與存證性質，旨在提供封閉邏輯的理論建構與學術討論。所有內容不構成醫療建議、診斷或治療。任何臨床應用須另行通過倫理審查、試驗設計與法規遵循。
+
+---
+
 ## 🔒 License / 授權
 This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 本理論以 **創用 CC 姓名標示 4.0 國際授權條款** 發布。
