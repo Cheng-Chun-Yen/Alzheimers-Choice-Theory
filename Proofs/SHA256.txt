@@ -1,1 +1,27 @@
-D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67
+# Alzheimer's Choice Theory (ACT)
+# SHA-256 Verification Record
+# Maintained under the Closed-Logic Theoretical Preservation Model (CLTPM)
+
+# ---------------------------------------------------------
+# Final Public Release
+# ---------------------------------------------------------
+V1.0 Final Draft (ZH)  (2025-10-19)  D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67
+
+# ---------------------------------------------------------
+# Strong Draft Lineage (Timestamp-only)
+# ---------------------------------------------------------
+V1.2  (2025-10-16)  C9530898FB3376BA8A6862DEA3338521A774E69F558EB1441F35E30257A934C4
+V1.1  (2025-10-08)  B568463796B4A08495D948DC1C91F17B2514A5014B9948FE5D35788A03856620
+V0.9  (2025-09-30)  6042E65130D8A818829F261315722547A4DCBF119F351929336284587A424261
+
+# ---------------------------------------------------------
+# Notes
+# ---------------------------------------------------------
+# Each hash corresponds to a distinct verified PDF version archived through:
+# - ArDrive TXID (private, on-chain)
+# - Zenodo DOI (public timestamp)
+# - GitHub Proofs directory (this file)
+#
+# This structure ensures a top-down chronological validation hierarchy:
+# current public release (V1.0) → verified draft lineage (V0.9–V1.2)
+# forming a complete closed-causal verification chain under CLTPM.
