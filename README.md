@@ -159,3 +159,22 @@ All multi-layer verification data are publicly accessible through:
 
 © 2025 Cheng-Chun Yen (顏誠均). All Rights Reserved.
 
+---
+
+## 🕓 Draft Lineage Record
+
+To maintain transparent provenance without disclosing draft content,  
+the pre-publication lineage of **Alzheimer’s Choice Theory (ACT)** is archived under:
+
+- [`Proofs/Draft_Lineage.md`](./Proofs/Draft_Lineage.md)
+
+> This record contains timestamp-only metadata (DOI and SHA-256)  
+> for all *Strong Drafts (V0.9 – V1.2)* prior to public release of *V1.0 Final Draft (ZH)*.  
+> Blockchain TXIDs are retained privately within secure verification storage  
+> under the **Closed-Logic Theoretical Preservation Model (CLTPM)**.
+
+---
+
+© 2025 Cheng-Chun Yen (顏誠均). All Rights Reserved.
+
+
