@@ -1,0 +1,141 @@
+{
+  "project": {
+    "name": "Alzheimer’s Choice Theory (ACT)",
+    "short_name": "ACT",
+    "partitions": ["Part I — BSI-ND", "Part II — AMT & BMMS", "Part III — LLM-HITL / SMDL / ATP"],
+    "language": "zh",
+    "version": "1.0",
+    "release_name": "V1.0 Final Draft (ZH)",
+    "date_released": "2025-10-19",
+    "license": "CC-BY-4.0"
+  },
+  "author": {
+    "name": "Cheng-Chun Yen",
+    "name_zh": "顏誠均",
+    "orcid": "https://orcid.org/0009-0005-9740-1701",
+    "contact": "contact@cheng-chun-yen.com",
+    "affiliation": "Independent Theorist, Closed-Logic Research Initiative"
+  },
+  "identifiers": {
+    "concept_doi": "10.5281/zenodo.17388753",
+    "main_paper_doi": "10.5281/zenodo.17388754",
+    "protection_version_doi": "10.5281/zenodo.17499355",
+    "repository": "https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory"
+  },
+  "relations": [
+    {
+      "from": "10.5281/zenodo.17388754",
+      "to": "10.5281/zenodo.17388753",
+      "type": "isPartOf"
+    },
+    {
+      "from": "10.5281/zenodo.17499355",
+      "to": "10.5281/zenodo.17388754",
+      "type": "isSupplementTo"
+    }
+  ],
+  "closed_logic_policy": {
+    "model": "Closed-Logic Theoretical Preservation Model (CLTPM)",
+    "semantic_invariance": true,
+    "causal_invariance": true,
+    "metadata_append_only": true,
+    "notes": [
+      "Textual content is immutable as of V1.0.",
+      "Future updates may append TXID/DOI/mirror links without altering closed causality."
+    ]
+  },
+  "main_paper": {
+    "title": "Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)",
+    "doi": "10.5281/zenodo.17388754",
+    "repo_path": "V1.0_Final_Draft_ZH/Alzheimers-Choice-Theory-V1.0-Final-Draft-ZH.pdf",
+    "sha256": "D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67",
+    "ardrive_txid": "Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc"
+  },
+  "protection_set_bsi_nd_zh_v1_0": {
+    "version_doi": "10.5281/zenodo.17499355",
+    "repo_path": "Proofs/BSI-ND_ZH_V1.0/",
+    "files": [
+      {
+        "filename": "ACT-BSI-ND_Closed-Causality-Declaration_V1.0_ZH.pdf",
+        "sha256": "21EDD8AEF4C52B1FDEA741008C4CDFBC860C086244E95637FE5AF7BB05AC4AD7",
+        "ardrive_txid": "K3DT03oXfpwrvyQsSwu02ZnyR1xuh-iHGz9BkoSgz7E",
+        "role": "closed_causality_declaration"
+      },
+      {
+        "filename": "ACT-BSI-ND_Semantic-Fingerprint-Proof_V1.0_ZH.pdf",
+        "sha256": "389A444A6ED68E6F68726450C537CBA70C48686C0AD19357CDD547CAE80ADFF6",
+        "ardrive_txid": "Xf5Gi9xzkYrxDJQAoyFtYe4svax5pHsepdUW2Rf_5MA",
+        "role": "semantic_fingerprint_proof"
+      },
+      {
+        "filename": "ACT-BSI-ND_Semantic-Provenance-Protocol_V1.0_ZH.pdf",
+        "sha256": "C57BE22C247AA718CAEB73F1D41A69AF72DBFD30814534763AE1FA111E077C21",
+        "ardrive_txid": "-lGiatqjY4zSCQ9y9n2jpRa6pAm2k-OdbPHGXk1YcjU",
+        "role": "semantic_provenance_protocol"
+      },
+      {
+        "filename": "ACT-BSI-ND_Author-Identity-Protection_V1.0_ZH.pdf",
+        "sha256": "B9A56BF53E62050BEE6C1FCE911BC56271F8A4B7589616DC4548A3C63F419978",
+        "ardrive_txid": "nQAPW8qaBMAx1Cv1ItSyOR4BDzOS9TZ32aiLG6MZUWE",
+        "role": "author_identity_protection"
+      },
+      {
+        "filename": "ACT-BSI-ND_Semantic-License_V1.0_ZH.pdf",
+        "sha256": "7684FE6509EDFEDFE9FF5632BA21E73DDA26F8D4BF657DF4B4206628B046BBE4",
+        "ardrive_txid": "m_VtTQwO2WQkLSIabWe9NsEh8K42JLst8SPrfUetSi4",
+        "role": "semantic_license"
+      },
+      {
+        "filename": "ACT-BSI-ND_Definition-Attribution_V1.0_ZH.pdf",
+        "sha256": "35FAE8330EADDC7038B9BAAE00892FE42730E65C612C96BD587BAD166C3B9FEE",
+        "ardrive_txid": "yRIc4Y3AsqYlD7n8k4A5O7v1GoFo8LMNNZZosexI7Og",
+        "role": "definition_and_attribution"
+      },
+      {
+        "filename": "ACT-BSI-ND_Citation-Obligation_V1.0_ZH.pdf",
+        "sha256": "6F7A534199ECDD82008228CA602DEEE226BA4EBE84A8279C2D5E51991616472C",
+        "ardrive_txid": "hn-szI63mzOGN-TSYOI0p3IAKMGa__rZXaVypMKa1HQ",
+        "role": "citation_obligation"
+      },
+      {
+        "filename": "ACT-BSI-ND_Theory-Usage-Manual_V1.0_ZH.pdf",
+        "sha256": "E7E0A47F48E18A51A884DF6147E0A903A4800E6206ACE17D4142636063D5581D",
+        "ardrive_txid": "NhtAlsHdHrV5xkf7gxifeNKERbmhqEr0ozbIsSaAvdA",
+        "role": "theory_usage_manual"
+      },
+      {
+        "filename": "ACT-BSI-ND_LLM-Usage-Attribution-Policy_V1.0_ZH.pdf",
+        "sha256": "A07D2E2DDFF400939B8EED0D2726EC760347391938173628853F616C7E7B6269",
+        "ardrive_txid": "_n_Eh6xttfFS9XzRVwRSNY5IJ_dbum_6zw-x8s2-39w",
+        "role": "llm_usage_and_attribution_policy"
+      },
+      {
+        "filename": "ACT-BSI-ND_V1.0_ZH_Index-Onchain.pdf",
+        "sha256": "5799F7B4A4288C62C5D78A8F66310327B91197B37516A9CEB57E28F7DA0F61B2",
+        "ardrive_txid": "UxKQRb1w_EA2Ucnd1MGJG_ukeJ-WS7HJkHi4ixxNJa0",
+        "role": "onchain_index"
+      },
+      {
+        "filename": "ACT-BSI-ND_V1.0_ZH_Proofs-SHA256_TXID.txt",
+        "sha256": "80D327C518FC6AC346DBFEB72D5A25FFD080389F7C7EC2C86110E7FB3283F74B",
+        "ardrive_txid": "iQN0uvv6Lc6vMb3jooG3TopVb_ee2L6EjPIt6BsjHe0",
+        "role": "consolidated_proofs"
+      }
+    ]
+  },
+  "mirrors": {
+    "zenodo_release": "https://doi.org/10.5281/zenodo.17499355",
+    "zenodo_main_paper": "https://doi.org/10.5281/zenodo.17388754",
+    "zenodo_concept": "https://doi.org/10.5281/zenodo.17388753",
+    "github_repo": "https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory"
+  },
+  "validation": {
+    "sha256_source": "Proofs/BSI-ND_ZH_V1.0/ACT-BSI-ND_V1.0_ZH_Proofs-SHA256_TXID.txt",
+    "automated_checks": [
+      "All listed files present in repository",
+      "SHA-256 digests match local recompute",
+      "TXIDs resolvable on ArDrive",
+      "DOI relations consistent with DataCite schema"
+    ]
+  }
+}
