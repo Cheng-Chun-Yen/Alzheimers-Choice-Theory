@@ -1,7 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it."
 title: "Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)"
-abstract: "A closed-causal theoretical framework (ACT-CCF) based on the Non-Thinking Hypothesis and the Non-Degenerative Brain Hypothesis."
+abstract: >
+  A closed-causal theoretical framework (ACT-CCF) based on the Non-Thinking Hypothesis
+  and the Non-Degenerative Brain Hypothesis. This version represents the officially
+  verified V1.0 (ZH) release under the Closed-Logic Theoretical Preservation Model (CLTPM),
+  with corresponding semantic protection layers archived in Zenodo.
 authors:
   - family-names: Yen
     given-names: Cheng-Chun
@@ -11,14 +15,44 @@ license: "CC-BY-4.0"
 repository-code: "https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory"
 doi: 10.5281/zenodo.17388754
 url: "https://doi.org/10.5281/zenodo.17388754"
+version: "V1.0 (ZH)"
+date-released: "2025-10-19"
+publisher: "Zenodo"
+
 keywords:
   - Alzheimer's disease
   - Closed-causal framework
   - Non-Thinking Hypothesis
   - Non-Degenerative Brain Hypothesis
   - ACT-CCF
-version: "V1.0 (ZH)"
-date-released: "2025-10-19"
+  - Semantic Protection
+  - BSI-ND
+  - Cheng-Chun Yen
+  - Closed-Logic Theory
+  - Blockchain Verification
+
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17388753
+    description: "Concept DOI (Parent Record)"
+  - type: doi
+    value: 10.5281/zenodo.17388754
+    description: "Main Paper DOI — Alzheimer’s Choice Theory (V1.0 Final Draft, ZH)"
+  - type: doi
+    value: 10.5281/zenodo.17499355
+    description: "Semantic Protection DOI — BSI-ND_ZH_V1.0"
+
+related_identifiers:
+  - identifier: https://doi.org/10.5281/zenodo.17388753
+    relation: isPartOf
+    type: doi
+  - identifier: https://doi.org/10.5281/zenodo.17499355
+    relation: isSupplementTo
+    type: doi
+  - identifier: https://doi.org/10.5281/zenodo.17388754
+    relation: isVersionOf
+    type: doi
+
 preferred-citation:
   type: misc
   authors:
@@ -30,3 +64,4 @@ preferred-citation:
   doi: 10.5281/zenodo.17388754
   publisher: "Zenodo"
   url: "https://doi.org/10.5281/zenodo.17388754"
+language: zh
