@@ -4,6 +4,7 @@
   "version": "V1.0",
   "language": "ZH",
   "release_date": "2025-10-19",
+  "causal_topology_id": "ACT-CT-001",
   "zenodo": {
     "doi": "10.5281/zenodo.17388754",
     "parent_concept_doi": "10.5281/zenodo.17388753",
