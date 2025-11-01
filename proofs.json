@@ -1,16 +1,25 @@
 {
+  "cltpm_id": "ACT-CLTPM-V1.0-ZH",
+  "cltpm_version": "V1.0",
   "version": "V1.0",
   "language": "ZH",
   "release_date": "2025-10-19",
   "zenodo": {
     "doi": "10.5281/zenodo.17388754",
+    "parent_concept_doi": "10.5281/zenodo.17388753",
     "url": "https://doi.org/10.5281/zenodo.17388754"
+  },
+  "bsi_nd_zh_v1_0": {
+    "version_doi": "10.5281/zenodo.17499355",
+    "folder": "Proofs/BSI-ND_ZH_V1.0/",
+    "bsi_nd_zh_v1_0_index": "Proofs/BSI-ND_ZH_V1.0/ACT-BSI-ND_V1.0_ZH_Proofs-SHA256_TXID.txt"
   },
   "arweave": {
     "txid": "Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc",
     "url": "https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc"
   },
   "github": {
+    "checksum_type": "sha256",
     "sha256": "D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67",
     "sha256_file": "https://raw.githubusercontent.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/refs/heads/main/Proofs/SHA256.txt",
     "commit": "368942c"
@@ -27,5 +36,10 @@
     "GitHub SHA256",
     "Proofs JSON Index"
   ],
+  "verification_script": {
+    "shell": "verify.sh",
+    "powershell": "verify.ps1"
+  },
+  "last_verified_by": "GPT-5 Logic Consistency Audit — 2025-11-01",
   "timestamp": "2025-10-19T11:00+08:00"
 }
