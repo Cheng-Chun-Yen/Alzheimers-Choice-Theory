@@ -1,11 +1,13 @@
 # Alzheimer’s Choice Theory (ACT)
 
 <!-- Badges -->
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17388754-blue)](https://doi.org/10.5281/zenodo.17388754)
+[![DOI (Main Paper)](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17388754-blue)](https://doi.org/10.5281/zenodo.17388754)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Release](https://img.shields.io/github/v/release/Cheng-Chun-Yen/Alzheimers-Choice-Theory?include_prereleases&label=release)](https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/releases)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9740--1701-brightgreen)](https://orcid.org/0009-0005-9740-1701)  
-[![DOI: 10.5281/zenodo.17499355](https://img.shields.io/badge/DOI-10.5281/zenodo.17499355-blue.svg)](#semantic-protection-bsi-nd-zh-v10)
+[![DOI (BSI-ND Semantic Protection ZH V1.0): 10.5281/zenodo.17499355](https://img.shields.io/badge/DOI-10.5281/zenodo.17499355-blue.svg)](#semantic-protection-bsi-nd-zh-v10)  
+> **DOI (Main Paper):** `10.5281/zenodo.17388754` — Alzheimer’s Choice Theory V1.0 Final Draft (ZH)  
+> **DOI (BSI-ND Semantic Protection ZH V1.0):** `10.5281/zenodo.17499355` — Semantic protection layer for Part I (BSI-ND)
 
 ---
 
@@ -24,6 +26,7 @@ This repository includes the full **semantic protection layer** for **Part I —
 - Version DOI: **10.5281/zenodo.17499355**
 - Main Paper DOI: **10.5281/zenodo.17388754**
 - Concept DOI (Parent): **10.5281/zenodo.17388753**
+- Folder README: [`Proofs/BSI-ND_ZH_V1.0/README.md`](./Proofs/BSI-ND_ZH_V1.0/README.md)
 
 **What’s included (11 files)**  
 Closed-Causality Declaration, Semantic Fingerprint Proof, Semantic Provenance Protocol, Author Identity Protection, Semantic License, Definition & Attribution, Citation Obligation, Theory Usage Manual, LLM Usage & Attribution Policy, Index-Onchain, Proofs-SHA256/TXID.
