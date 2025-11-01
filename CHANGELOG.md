@@ -26,6 +26,11 @@ ArDrive TXID: [Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc](https://arweave.net/
 - SHA-256: `D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67`  
 - 審查報告：`Proofs/Closed-Logic_Audit_Certificate_V1.0.md`  
 - 技術審核：`Proofs/Technical_Remark_GPT5_Logic_Consistency_Audit_Record.md`
+- 對應索引：`Proofs/SHA256_TXID_Index.txt`（由 proofs.json 自動引用）
+
+---
+
+**Version Stability Statement:** 本檔案屬封閉版本記錄文件，內容層（封閉理論與歷程紀錄）保持不變，但 metadata（DOI、TXID、SHA-256、審查路徑等）得依正式發佈版本進行同步更新。
 
 ---
 
