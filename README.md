@@ -4,7 +4,8 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17388754-blue)](https://doi.org/10.5281/zenodo.17388754)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Release](https://img.shields.io/github/v/release/Cheng-Chun-Yen/Alzheimers-Choice-Theory?include_prereleases&label=release)](https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/releases)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9740--1701-brightgreen)](https://orcid.org/0009-0005-9740-1701)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9740--1701-brightgreen)](https://orcid.org/0009-0005-9740-1701)  
+[![DOI: 10.5281/zenodo.17499355](https://img.shields.io/badge/DOI-10.5281/zenodo.17499355-blue.svg)](#semantic-protection-bsi-nd-zh-v10)
 
 ---
 
@@ -12,6 +13,20 @@
 
 Alzheimer’s Choice Theory (ACT) proposes a closed-causal framework (ACT-CCF) built upon the Non-Thinking Hypothesis and the Non-Degenerative Brain Hypothesis. The theory posits that a sustained interruption of “thinking behavior” acts as the primary causal driver for Alzheimer’s disease, while traditional biological models (Amyloid/Tau/Vascular/Inflammation) are treated as outer projections describing phenomenology rather than core causation. This repository provides a versioned, multi-layer verification scheme (Zenodo DOI, ArDrive TXID, SHA-256) to ensure archival integrity and reproducibility of the theoretical statements and artifacts.
 **Keywords:** Alzheimer’s disease; closed-causal framework; Non-Thinking Hypothesis; Non-Degenerative Brain Hypothesis; ACT-CCF; provenance; verification
+
+---
+
+## Semantic Protection (BSI-ND ZH V1.0)
+
+This repository includes the full **semantic protection layer** for **Part I — BSI-ND (Brain–Self Integrity under Non-Degeneration)** of the **Alzheimer’s Choice Theory (ACT)**.
+
+- Location: `/Proofs/BSI-ND_ZH_V1.0/`
+- Version DOI: **10.5281/zenodo.17499355**
+- Main Paper DOI: **10.5281/zenodo.17388754**
+- Concept DOI (Parent): **10.5281/zenodo.17388753**
+
+**What’s included (11 files)**  
+Closed-Causality Declaration, Semantic Fingerprint Proof, Semantic Provenance Protocol, Author Identity Protection, Semantic License, Definition & Attribution, Citation Obligation, Theory Usage Manual, LLM Usage & Attribution Policy, Index-Onchain, Proofs-SHA256/TXID.
 
 ---
 
