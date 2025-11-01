@@ -13,7 +13,7 @@
     "name": "Cheng-Chun Yen",
     "name_zh": "顏誠均",
     "orcid": "https://orcid.org/0009-0005-9740-1701",
-    "contact": "contact@cheng-chun-yen.com",
+    "contact": "https://cheng-chun-yen.com/",
     "affiliation": "Independent Theorist, Closed-Logic Research Initiative"
   },
   "identifiers": {
@@ -36,6 +36,7 @@
   ],
   "closed_logic_policy": {
     "model": "Closed-Logic Theoretical Preservation Model (CLTPM)",
+    "causal_topology_id": "ACT-CT-001",
     "semantic_invariance": true,
     "causal_invariance": true,
     "metadata_append_only": true,
@@ -51,6 +52,7 @@
     "sha256": "D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67",
     "ardrive_txid": "Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc"
   },
+  "main_pdf_path": "V1.0_Final_Draft_ZH/Alzheimers-Choice-Theory-V1.0-Final-Draft-ZH.pdf",
   "protection_set_bsi_nd_zh_v1_0": {
     "version_doi": "10.5281/zenodo.17499355",
     "repo_path": "Proofs/BSI-ND_ZH_V1.0/",
