@@ -11,57 +11,59 @@ authors:
     given-names: Cheng-Chun
     name-particle: C.-C.
     orcid: "https://orcid.org/0009-0005-9740-1701"
+    affiliation: "Independent Theorist, Closed-Logic Research Initiative"
+    website: "https://cheng-chun-yen.com/"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory"
-doi: 10.5281/zenodo.17388754
+doi: "10.5281/zenodo.17388754"
 url: "https://doi.org/10.5281/zenodo.17388754"
 version: "V1.0 (ZH)"
 date-released: "2025-10-19"
 publisher: "Zenodo"
+language: "zh"
 
 keywords:
-  - Alzheimer's disease
-  - Closed-causal framework
-  - Non-Thinking Hypothesis
-  - Non-Degenerative Brain Hypothesis
-  - ACT-CCF
-  - Semantic Protection
-  - BSI-ND
-  - Cheng-Chun Yen
-  - Closed-Logic Theory
-  - Blockchain Verification
+  - "Alzheimer's disease"
+  - "Closed-causal framework"
+  - "Non-Thinking Hypothesis"
+  - "Non-Degenerative Brain Hypothesis"
+  - "ACT-CCF"
+  - "Semantic Protection"
+  - "BSI-ND"
+  - "Cheng-Chun Yen"
+  - "Closed-Logic Theory"
+  - "Blockchain Verification"
 
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.17388753
+    value: "10.5281/zenodo.17388753"
     description: "Concept DOI (Parent Record)"
   - type: doi
-    value: 10.5281/zenodo.17388754
+    value: "10.5281/zenodo.17388754"
     description: "Main Paper DOI — Alzheimer’s Choice Theory (V1.0 Final Draft, ZH)"
   - type: doi
-    value: 10.5281/zenodo.17499355
+    value: "10.5281/zenodo.17499355"
     description: "Semantic Protection DOI — BSI-ND_ZH_V1.0"
 
 related_identifiers:
-  - identifier: https://doi.org/10.5281/zenodo.17388753
+  - identifier: "https://doi.org/10.5281/zenodo.17388753"
     relation: isPartOf
     type: doi
-  - identifier: https://doi.org/10.5281/zenodo.17499355
+  - identifier: "https://doi.org/10.5281/zenodo.17499355"
     relation: isSupplementTo
     type: doi
-  - identifier: https://doi.org/10.5281/zenodo.17388754
+  - identifier: "https://doi.org/10.5281/zenodo.17388754"
     relation: isVersionOf
     type: doi
 
 preferred-citation:
-  type: misc
+  type: article
   authors:
     - family-names: Yen
       given-names: Cheng-Chun
       name-particle: C.-C.
   title: "Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)"
   year: 2025
-  doi: 10.5281/zenodo.17388754
+  doi: "10.5281/zenodo.17388754"
   publisher: "Zenodo"
   url: "https://doi.org/10.5281/zenodo.17388754"
-language: zh
