@@ -13,6 +13,9 @@ Key reference:
 
 This file serves as the conceptual entry point for CLTPM in external archives (e.g., Zenodo).
 
+CLTPM-ID: ACT-CLTPM-V1.0-ZH  
+Causal Topology Reference → ACT-CTID-001
+
 ---
 
 **Version:** 1.0  
@@ -21,3 +24,4 @@ This file serves as the conceptual entry point for CLTPM in external archives (e
 
 © 2025 Cheng-Chun Yen. All Rights Reserved.
 
+License: CC BY 4.0 (textual content only; semantic topology protected under ACT-CCF closed-causality).
