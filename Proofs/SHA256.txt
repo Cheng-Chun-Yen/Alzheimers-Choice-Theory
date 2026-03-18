@@ -3,25 +3,35 @@
 # Maintained under the Closed-Logic Theoretical Preservation Model (CLTPM)
 
 # ---------------------------------------------------------
-# Final Public Release
+# Public Releases
 # ---------------------------------------------------------
 V1.0 Final Draft (ZH)  (2025-10-19)  D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67
+
+V1.1 Final Draft Package  (2026-03-18)
+Alzheimers-Choice-Theory-V1.1-Final-Draft-ZH.pdf        F030CD8E08CAC6DDCCC931766AB35D6A3044DDB2257C2C7F7ED4099B74BB2076
+Alzheimers-Choice-Theory-V1.1-Final-Draft-EN.pdf        CA9C5EC9208B7015113B97D16C26BF2C87E96F922C252A77BEDA007E1BEEB8EF
+Alzheimers-Choice-Theory-V1.1-Final-Draft-math.pdf      8DC100C39CB73598F51F0B3754F17DA3FD28798D8F5F0ED823F287102DED0D1C
+ACT-V1.1-Publication-Manifest.pdf                       640A8EB89716CE6EC97F22AC1113BD4925C05705DB724EFDB5905C71E1A98367
 
 # ---------------------------------------------------------
 # Strong Draft Lineage (Timestamp-only)
 # ---------------------------------------------------------
-V1.2  (2025-10-16)  C9530898FB3376BA8A6862DEA3338521A774E69F558EB1441F35E30257A934C4
-V1.1  (2025-10-08)  B568463796B4A08495D948DC1C91F17B2514A5014B9948FE5D35788A03856620
-V0.9  (2025-09-30)  6042E65130D8A818829F261315722547A4DCBF119F351929336284587A424261
+V1.2 Strong Draft  (2025-10-16)  C9530898FB3376BA8A6862DEA3338521A774E69F558EB1441F35E30257A934C4
+V1.1 Strong Draft  (2025-10-08)  B568463796B4A08495D948DC1C91F17B2514A5014B9948FE5D35788A03856620
+V0.9 Strong Draft  (2025-09-30)  6042E65130D8A818829F261315722547A4DCBF119F351929336284587A424261
 
 # ---------------------------------------------------------
 # Notes
 # ---------------------------------------------------------
-# Each hash corresponds to a distinct verified PDF version archived through:
-# - ArDrive TXID (private, on-chain)
-# - Zenodo DOI (public timestamp)
+# Each hash corresponds to a distinct verified release file or draft-state record archived through:
+# - Arweave / ArDrive TXID
+# - Zenodo DOI
 # - GitHub Proofs directory (this file)
 #
-# This structure ensures a top-down chronological validation hierarchy:
-# current public release (V1.0) → verified draft lineage (V0.9–V1.2)
-# forming a complete closed-causal verification chain under CLTPM.
+# V1.0 Final Draft (ZH) is the first public release.
+# V1.1 Final Draft is a four-file public release package.
+# For V1.1, ACT-V1.1-Publication-Manifest.pdf serves as the package-level integrity anchor.
+#
+# This structure preserves:
+# public releases (V1.0 Final Draft, V1.1 Final Draft) + verified draft lineage (V0.9 Strong Draft, V1.1 Strong Draft, V1.2 Strong Draft)
+# as a closed-causal verification chain under CLTPM.
