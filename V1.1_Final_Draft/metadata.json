@@ -1,0 +1,77 @@
+{
+  "title": "Alzheimer's Choice Theory (ACT) — V1.1 Final Draft",
+  "short_title": "ACT V1.1 Final Draft",
+  "version": "V1.1 Final Draft",
+  "release_date": "2026-03-18",
+  "theory_name": "Alzheimer's Choice Theory",
+  "abbreviation": "ACT",
+  "author": {
+    "name_en": "Cheng-Chun Yen",
+    "name_zh": "顏誠均",
+    "also_known_as": "C.C. Yen",
+    "orcid": "https://orcid.org/0009-0005-9740-1701",
+    "website": "https://cheng-chun-yen.com/",
+    "github": "https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory"
+  },
+  "publication_identity": {
+    "concept_doi": "10.5281/zenodo.17388753",
+    "version_doi": "10.5281/zenodo.19083901"
+  },
+  "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "repository_role": "Public release package for V1.1 Final Draft",
+  "semantic_authority": {
+    "authoritative_version": "Alzheimers-Choice-Theory-V1.1-Final-Draft-ZH.pdf",
+    "rule": "The Chinese version is the authoritative source text. The English and mathematical versions are companion representational forms derived from the Chinese original. In case of ambiguity, inconsistency, or interpretive conflict, the Chinese original prevails."
+  },
+  "revision_statement": "V1.1 Final Draft is a revision based on V1.0 Final Draft. It incorporates textual refinements, errata corrections, and clearer formulation of structural and falsifiability statements, while preserving the same core logical structure, causal topology, principal mechanisms, and principal conclusions. This revision does not constitute a new theory or an independent work.",
+  "core_causal_topology": "NT -> D -> AD",
+  "included_files": [
+    {
+      "filename": "Alzheimers-Choice-Theory-V1.1-Final-Draft-ZH.pdf",
+      "language": "Chinese",
+      "role": "Authoritative text",
+      "sha256": "F030CD8E08CAC6DDCCC931766AB35D6A3044DDB2257C2C7F7ED4099B74BB2076",
+      "arweave_txid": "pLsk7-_PMJSqcECONNnJWKs65rkZL0rYz_biMO6ICEw"
+    },
+    {
+      "filename": "Alzheimers-Choice-Theory-V1.1-Final-Draft-EN.pdf",
+      "language": "English",
+      "role": "English companion version",
+      "sha256": "CA9C5EC9208B7015113B97D16C26BF2C87E96F922C252A77BEDA007E1BEEB8EF",
+      "arweave_txid": "KrFRh7xFZlQmn6N92HxKf7Qn1XwC1m75lMC5fidYko8"
+    },
+    {
+      "filename": "Alzheimers-Choice-Theory-V1.1-Final-Draft-math.pdf",
+      "language": "English",
+      "role": "Mathematical formalization companion document",
+      "sha256": "8DC100C39CB73598F51F0B3754F17DA3FD28798D8F5F0ED823F287102DED0D1C",
+      "arweave_txid": "yEfUMDPlf8j9IOF0J6lJKKKV9gQkiLiEhI9Wxj4lYFU"
+    },
+    {
+      "filename": "ACT-V1.1-Publication-Manifest.pdf",
+      "language": "Bilingual",
+      "role": "Publication manifest and integrity verification record",
+      "sha256": "640A8EB89716CE6EC97F22AC1113BD4925C05705DB724EFDB5905C71E1A98367",
+      "arweave_txid": "pon5aFuQePDDPSH7o80_J_D1XYU_Y8KmV4ye5e9M5kA"
+    }
+  ],
+  "archival_platforms": [
+    "GitHub",
+    "Zenodo",
+    "Arweave"
+  ],
+  "keywords": [
+    "Alzheimer's Choice Theory",
+    "ACT",
+    "Non-Thinking Hypothesis",
+    "NT",
+    "NT -> D -> AD",
+    "closed-causal theoretical framework",
+    "Chinese original",
+    "English companion version",
+    "mathematical formalization"
+  ]
+}
