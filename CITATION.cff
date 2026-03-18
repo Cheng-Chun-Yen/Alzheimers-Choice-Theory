@@ -1,69 +1,61 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it."
-title: "Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)"
+message: "If you use this work, please cite the latest formal release."
+title: "Alzheimer’s Choice Theory: Single-Origin Closed Causal Topological Model"
 abstract: >
-  A closed-causal theoretical framework (ACT-CCF) based on the Non-Thinking Hypothesis
-  and the Non-Degenerative Brain Hypothesis. This version represents the officially
-  verified V1.0 (ZH) release under the Closed-Logic Theoretical Preservation Model (CLTPM),
-  with corresponding semantic protection layers archived in Zenodo.
+  A closed-causal theoretical framework proposing that the long-term Non-Thinking State (NT)
+  is the sole upstream endogenous generative condition of Alzheimer’s disease. V1.1 Final Draft
+  is a revision based on V1.0 Final Draft, preserving the same core logical structure, causal topology,
+  principal mechanisms, and principal conclusions, while incorporating textual refinements,
+  errata corrections, and clearer formulation of structural and falsifiability statements.
+  The Chinese original is the authoritative source text; the English and mathematical versions
+  are companion representational forms.
 authors:
   - family-names: Yen
     given-names: Cheng-Chun
-    name-particle: C.-C.
     orcid: "https://orcid.org/0009-0005-9740-1701"
-    affiliation: "Independent Theorist, Closed-Logic Research Initiative"
-    website: "https://cheng-chun-yen.com/"
+    affiliation: "Independent Theorist, Cheng-Chun Yen Research Initiative"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory"
-doi: "10.5281/zenodo.17388754"
-url: "https://doi.org/10.5281/zenodo.17388754"
-version: "V1.0 (ZH)"
-date-released: "2025-10-19"
+doi: "10.5281/zenodo.19083901"
+url: "https://doi.org/10.5281/zenodo.19083901"
+version: "V1.1 Final Draft"
+date-released: "2026-03-18"
 publisher: "Zenodo"
-language: "zh"
+language: "en"
 
 keywords:
+  - "Alzheimer's Choice Theory"
+  - "ACT"
   - "Alzheimer's disease"
-  - "Closed-causal framework"
+  - "closed-causal theoretical framework"
   - "Non-Thinking Hypothesis"
-  - "Non-Degenerative Brain Hypothesis"
-  - "ACT-CCF"
-  - "Semantic Protection"
-  - "BSI-ND"
-  - "Cheng-Chun Yen"
-  - "Closed-Logic Theory"
-  - "Blockchain Verification"
+  - "NT -> D -> AD"
+  - "Chinese original"
+  - "English companion version"
+  - "mathematical formalization"
 
 identifiers:
   - type: doi
     value: "10.5281/zenodo.17388753"
-    description: "Concept DOI (Parent Record)"
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: "10.5281/zenodo.19083901"
+    description: "Version DOI — V1.1 Final Draft"
   - type: doi
     value: "10.5281/zenodo.17388754"
-    description: "Main Paper DOI — Alzheimer’s Choice Theory (V1.0 Final Draft, ZH)"
+    description: "Previous public version DOI — V1.0 Final Draft (ZH)"
   - type: doi
     value: "10.5281/zenodo.17499355"
-    description: "Semantic Protection DOI — BSI-ND_ZH_V1.0"
-
-related_identifiers:
-  - identifier: "https://doi.org/10.5281/zenodo.17388753"
-    relation: isPartOf
-    type: doi
-  - identifier: "https://doi.org/10.5281/zenodo.17499355"
-    relation: isSupplementTo
-    type: doi
-  - identifier: "https://doi.org/10.5281/zenodo.17388754"
-    relation: isVersionOf
-    type: doi
+    description: "Related supplementary proof layer DOI — BSI-ND Semantic Protection (ZH V1.0)"
 
 preferred-citation:
-  type: article
+  type: report
   authors:
     - family-names: Yen
       given-names: Cheng-Chun
-      name-particle: C.-C.
-  title: "Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)"
-  year: 2025
-  doi: "10.5281/zenodo.17388754"
+  title: "Alzheimer’s Choice Theory: Single-Origin Closed Causal Topological Model — V1.1 Final Draft"
+  year: 2026
+  version: "V1.1 Final Draft"
+  doi: "10.5281/zenodo.19083901"
   publisher: "Zenodo"
-  url: "https://doi.org/10.5281/zenodo.17388754"
+  url: "https://doi.org/10.5281/zenodo.19083901"
