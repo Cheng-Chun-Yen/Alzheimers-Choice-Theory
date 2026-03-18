@@ -1,199 +1,196 @@
 # Alzheimer’s Choice Theory (ACT)
 
 <!-- Badges -->
-[![DOI (Main Paper)](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17388754-blue)](https://doi.org/10.5281/zenodo.17388754)
+[![DOI (V1.1)](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19083901-blue)](https://doi.org/10.5281/zenodo.19083901)
+[![Concept DOI](https://img.shields.io/badge/Concept%20DOI-10.5281%2Fzenodo.17388753-blueviolet)](https://doi.org/10.5281/zenodo.17388753)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Release](https://img.shields.io/github/v/release/Cheng-Chun-Yen/Alzheimers-Choice-Theory?include_prereleases&label=release)](https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/releases)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9740--1701-brightgreen)](https://orcid.org/0009-0005-9740-1701)  
-[![DOI (BSI-ND Semantic Protection ZH V1.0): 10.5281/zenodo.17499355](https://img.shields.io/badge/DOI-10.5281/zenodo.17499355-blue.svg)](#semantic-protection-bsi-nd-zh-v10)  
-> **DOI (Main Paper):** `10.5281/zenodo.17388754` — Alzheimer’s Choice Theory V1.0 Final Draft (ZH)  
-> **DOI (BSI-ND Semantic Protection ZH V1.0):** `10.5281/zenodo.17499355` — Semantic protection layer for Part I (BSI-ND)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9740--1701-brightgreen)](https://orcid.org/0009-0005-9740-1701)
+[![DOI (BSI-ND Semantic Protection ZH V1.0)](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17499355-blue.svg)](#related-supplementary-proof-layer-bsi-nd-zh-v10)
+
+> **Latest formal release DOI:** `10.5281/zenodo.19083901` — *Alzheimer’s Choice Theory: Single-Origin Closed Causal Topological Model — V1.1 Final Draft*  
+> **Concept DOI (all versions):** `10.5281/zenodo.17388753`  
+> **Related supplementary proof-layer DOI:** `10.5281/zenodo.17499355` — *BSI-ND Semantic Protection (ZH V1.0)*
 
 ---
 
-### Abstract (EN)
+## Overview (EN)
 
-Alzheimer’s Choice Theory (ACT) proposes a closed-causal framework (ACT-CCF) built upon the Non-Thinking Hypothesis and the Non-Degenerative Brain Hypothesis. The theory posits that a sustained interruption of “thinking behavior” acts as the primary causal driver for Alzheimer’s disease, while traditional biological models (Amyloid/Tau/Vascular/Inflammation) are treated as outer projections describing phenomenology rather than core causation. This repository provides a versioned, multi-layer verification scheme (Zenodo DOI, ArDrive TXID, SHA-256) to ensure archival integrity and reproducibility of the theoretical statements and artifacts.
-**Keywords:** Alzheimer’s disease; closed-causal framework; Non-Thinking Hypothesis; Non-Degenerative Brain Hypothesis; ACT-CCF; provenance; verification
+**Alzheimer’s Choice Theory (ACT)** is a closed-causal theoretical framework proposing that the long-term **Non-Thinking State (NT)** is the sole upstream endogenous generative condition of Alzheimer’s disease.
 
----
+**Core causal topology:**  
+**NT → D → AD**  
+(Non-Thinking → Neural Functional Decline → Alzheimer’s Disease)
 
-## Semantic Protection (BSI-ND ZH V1.0)
+ACT adopts a **three-layer progressive architecture**:
 
-This repository includes the full **semantic protection layer** for **Part I — BSI-ND (Brain–Self Integrity under Non-Degeneration)** of the **Alzheimer’s Choice Theory (ACT)**.
+1. **The Foundational Layer**  
+   Postulate (UDM), core hypothesis (NTH), and consequence (NDBH)
 
-- Location: `/Proofs/BSI-ND_ZH_V1.0/`
-- Version DOI: **10.5281/zenodo.17499355**
-- Main Paper DOI: **10.5281/zenodo.17388754**
-- Concept DOI (Parent): **10.5281/zenodo.17388753**
-- Folder README: [`Proofs/BSI-ND_ZH_V1.0/README.md`](./Proofs/BSI-ND_ZH_V1.0/README.md)
+2. **The Mechanism Modeling Layer**  
+   AMT Theory and AMT-CV-2PEM as operational identification and modeling tools for the NT state
 
-**What’s included (11 files)**  
-Closed-Causality Declaration, Semantic Fingerprint Proof, Semantic Provenance Protocol, Author Identity Protection, Semantic License, Definition & Attribution, Citation Obligation, Theory Usage Manual, LLM Usage & Attribution Policy, Index-Onchain, Proofs-SHA256/TXID.
+3. **The Applied Extension Layer**  
+   Technological practice and human–machine interaction extension
 
----
-
-## 📖 Table of Contents
-
-- [Abstract (EN)](#abstract-en)
-- [Quick Links](#-quick-links)
-- [Closed-Causal Theoretical Framework for Alzheimer’s Disease (ACT-CCF)](#closed-causal-theoretical-framework-for-alzheimers-disease-act-ccf)
-- [Boundary & Non-Assimilation Statement（邊界與非吸納聲明）](#boundary--non-assimilation-statement邊界與非吸納聲明)
-- [Scope & Non-Claim（範圍與非醫療宣稱）](#scope--non-claim範圍與非醫療宣稱)
-- [License / 授權](#-license--授權)
-- [Version Control / 版本控制](#-version-control--版本控制)
-- [Latest Release (V1.0 ZH)](#-latest-release-v10-zh)
-- [How to Cite](#-how-to-cite)
-- [Verification Records](#-verification-records)
+**V1.1 Final Draft** is a revision based on **V1.0 Final Draft**. It incorporates textual refinements, errata corrections, and clearer formulation of structural and falsifiability statements, while preserving the same core logical structure, causal topology, principal mechanisms, and principal conclusions. This revision does **not** constitute a new theory or an independent work.
 
 ---
 
-### 🔗 Quick Links
-- 📄 **PDF**（Release 下載）：  
-  [Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)](https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/releases/latest)
-- 🧠 **DOI（Zenodo）**：  
-  <https://doi.org/10.5281/zenodo.17388754>
-- ⛓️ **ArDrive TXID**（Arweave）：  
-  <https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc>
-- 🧾 **SHA-256**：  
-  `D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67`  
-  （Raw 檔： [Proofs/SHA256.txt](https://raw.githubusercontent.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/refs/heads/main/Proofs/SHA256.txt)）
-- ✅ **Closed-Logic Audit Certificate**：  
-  [`Proofs/Closed-Logic_Audit_Certificate_V1.0.md`](Proofs/Closed-Logic_Audit_Certificate_V1.0.md)
-- 🧪 **Technical Remark**（GPT-5 Logic Consistency Audit Record）：  
-  [`Proofs/Technical_Remark_GPT5_Logic_Consistency_Audit_Record.md`](Proofs/Technical_Remark_GPT5_Logic_Consistency_Audit_Record.md)
-- 🧷 **Three-Layer Archival Integrity Report**：  
-  [`Proofs/Archival_Integrity_Report_V1.0.md`](Proofs/Archival_Integrity_Report_V1.0.md)
+## 概要（中文）
+
+**《阿茲海默症選擇論》（ACT）**是一個封閉因果理論架構，主張長期**不思考狀態（NT）**是阿茲海默症的唯一上游內生生成條件。
+
+**核心因果拓樸：**  
+**NT → D → AD**  
+（不思考 → 神經功能下降 → 阿茲海默症）
+
+ACT 採用**三層遞進理論架構**：
+
+1. **基礎層（The Foundational Layer）**  
+   公設（UDM）、核心假說（NTH）與推論結果（NDBH）
+
+2. **機制建模層（The Mechanism Modeling Layer）**  
+   以 AMT Theory 與 AMT-CV-2PEM 作為 NT 狀態的操作化識別與建模工具
+
+3. **應用延伸層（The Applied Extension Layer）**  
+   技術實作與人機互動延伸層
+
+**V1.1 Final Draft** 是基於 **V1.0 Final Draft** 的修訂版，包含文字精修、勘誤修正，以及更清楚的結構與可證偽性表述；其核心邏輯結構、因果拓樸、主要機制與主要結論均保持不變。此修訂**不構成新理論，也不是獨立新作品**。
 
 ---
 
-### Closed-Causal Theoretical Framework for Alzheimer’s Disease (ACT-CCF)
+## Table of Contents / 目錄
 
-阿茲海默症選擇論（Alzheimer’s Choice Theory, ACT）  
-是一個以「不思考假說（Non-Thinking Hypothesis）」與「大腦不退化假說（Non-Degenerative Brain Hypothesis）」為基礎的封閉因果理論架構。  
-本理論旨在重新定義阿茲海默症的成因，並以「思考行為的中斷」作為疾病發生的核心變因。
-
----
-
-### Boundary & Non-Assimilation Statement（邊界與非吸納聲明）
-
-本理論（ACT-CCF）採取封閉因果結構，將「思考行為的中斷」視為致病核心變因，並以「不思考假說」與「大腦不退化假說」構成閉環。爲避免被開放式框架（如：Cognitive Reserve、Brain Maintenance、STAC、Life Course/Resilience 叢集）追溯性吸納或概念重標，本理論在邏輯上採以下限制：
-
-1. **封閉性**：ACT-CCF 的因果鏈條在理論內完結；外部變項僅作投影或邊界條件，不構成致病主因。
-2. **非吸納**：任何後續研究若以開放框架之「儲備／補償」概念加以詮釋，均不得反向改寫或併入本理論之核心定義。
-3. **外投影（允許）**：生物模型（Amyloid/Tau/Vascular/Inflammation）與 Dynamic Retrogenesis 可作爲外層投影映射，用以描述現象層，但不改動 ACT-CCF 的內核因果。
-
-> 本段落僅釐清理論邊界，避免語義誤分類，非臨床治療宣稱。
+- [Overview (EN)](#overview-en)
+- [概要（中文）](#概要中文)
+- [Latest Release Package / 最新正式發布包](#latest-release-package--最新正式發布包)
+- [Semantic Authority / 語義權威](#semantic-authority--語義權威)
+- [Quick Links / 快速連結](#quick-links--快速連結)
+- [How to Cite / 引用方式](#how-to-cite--引用方式)
+- [Verification Records / 驗證記錄](#verification-records--驗證記錄)
+- [Related Supplementary Proof Layer (BSI-ND ZH V1.0)](#related-supplementary-proof-layer-bsi-nd-zh-v10)
+- [Draft Lineage Record / 草稿系譜記錄](#draft-lineage-record--草稿系譜記錄)
+- [License / 授權](#license--授權)
 
 ---
 
-### Scope & Non-Claim（範圍與非醫療宣稱）
+## Latest Release Package / 最新正式發布包
 
-本庫為理論研究與存證性質，旨在提供封閉邏輯的理論建構與學術討論。所有內容不構成醫療建議、診斷或治療。任何臨床應用須另行通過倫理審查、試驗設計與法規遵循。
+The current formal release is **V1.1 Final Draft** (published: **2026-03-18**).  
+目前最新正式公開版本為 **V1.1 Final Draft**（發布日期：**2026-03-18**）。
 
----
+This release contains **four files**:  
+本次發布包含 **4 份正式檔案**：
 
-## 🔒 License / 授權
-This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
-本理論以 **創用 CC 姓名標示 4.0 國際授權條款** 發布。
+1. [`V1.1_Final_Draft/Alzheimers-Choice-Theory-V1.1-Final-Draft-ZH.pdf`](./V1.1_Final_Draft/Alzheimers-Choice-Theory-V1.1-Final-Draft-ZH.pdf)  
+   Chinese original / 中文原文（權威文本）
 
----
+2. [`V1.1_Final_Draft/Alzheimers-Choice-Theory-V1.1-Final-Draft-EN.pdf`](./V1.1_Final_Draft/Alzheimers-Choice-Theory-V1.1-Final-Draft-EN.pdf)  
+   English companion version / 英文伴隨版本
 
-## 📑 Version Control / 版本控制
+3. [`V1.1_Final_Draft/Alzheimers-Choice-Theory-V1.1-Final-Draft-math.pdf`](./V1.1_Final_Draft/Alzheimers-Choice-Theory-V1.1-Final-Draft-math.pdf)  
+   Mathematical formalization companion document / 數學形式化伴隨文件
 
-- **Zenodo DOI**：  
-  [10.5281/zenodo.17388754](https://doi.org/10.5281/zenodo.17388754)
-
-- **ArDrive TXID（Arweave Link）**：  
-  [Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc](https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc)
-
-- **SHA-256 Checksum**（for `V1.0_Final_Draft_ZH.pdf`）：<br>
-D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67<br>
-📜 （Raw 檔： [Proofs/SHA256.txt](https://raw.githubusercontent.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/refs/heads/main/Proofs/SHA256.txt)）
+4. [`V1.1_Final_Draft/ACT-V1.1-Publication-Manifest.pdf`](./V1.1_Final_Draft/ACT-V1.1-Publication-Manifest.pdf)  
+   Publication manifest and integrity declaration / 發布統整與完整性驗證文件
 
 ---
 
-> **Cross-Verification Integrity Rule：**  
-> Every checksum and identifier in this repository is verifiable through  
-> - Zenodo metadata (DOI)  
-> - ArDrive permanent TXID  
-> - GitHub Proofs directory (raw access)  
->  
-> This structure ensures **Three-Layer Archival Integrity**  
-> under the **Closed-Logic Theoretical Preservation Model (CLTPM)**.
+## Semantic Authority / 語義權威
+
+The **Chinese original** is the authoritative source text of ACT V1.1.  
+The English and mathematical versions are **companion representational forms** derived from the Chinese original.
+
+In the event of ambiguity, inconsistency, or interpretive conflict among versions, the **Chinese original shall prevail**.
+
+**中文原文**是 ACT V1.1 的唯一權威文本。  
+英文版與數學形式化版本是根據中文原文所生成的**伴隨表述形式**。
+
+若不同版本之間出現歧義、不一致或解釋衝突，**一律以中文原文為準**。
 
 ---
 
-### 📄 Latest Release (V1.0 ZH)
-**Alzheimer’s Choice Theory (ACT)** — V1.0 Final Draft (ZH)
+## Quick Links / 快速連結
 
-📘 [View / Download PDF](./V1.0_Final_Draft_ZH/Alzheimers-Choice-Theory-V1.0-Final-Draft-ZH.pdf)  
-🔗 ArDrive TXID： [Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc](https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc)  
-🧾 DOI (Zenodo)： [10.5281/zenodo.17388754](https://doi.org/10.5281/zenodo.17388754)  
-🔒 License： [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-_Last updated: 2025-10-19 (Asia/Taipei)_
+### Core identifiers / 核心識別資訊
+- **Version DOI (V1.1):** <https://doi.org/10.5281/zenodo.19083901>
+- **Concept DOI (all versions):** <https://doi.org/10.5281/zenodo.17388753>
+- **Previous public version DOI (V1.0 ZH):** <https://doi.org/10.5281/zenodo.17388754>
 
----
+### Release package / 正式發布包
+- [`V1.1_Final_Draft/README.md`](./V1.1_Final_Draft/README.md)
+- [`V1.1_Final_Draft/metadata.json`](./V1.1_Final_Draft/metadata.json)
+- [`V1.1_Final_Draft/Alzheimers-Choice-Theory-V1.1-Final-Draft-ZH.pdf`](./V1.1_Final_Draft/Alzheimers-Choice-Theory-V1.1-Final-Draft-ZH.pdf)
+- [`V1.1_Final_Draft/Alzheimers-Choice-Theory-V1.1-Final-Draft-EN.pdf`](./V1.1_Final_Draft/Alzheimers-Choice-Theory-V1.1-Final-Draft-EN.pdf)
+- [`V1.1_Final_Draft/Alzheimers-Choice-Theory-V1.1-Final-Draft-math.pdf`](./V1.1_Final_Draft/Alzheimers-Choice-Theory-V1.1-Final-Draft-math.pdf)
+- [`V1.1_Final_Draft/ACT-V1.1-Publication-Manifest.pdf`](./V1.1_Final_Draft/ACT-V1.1-Publication-Manifest.pdf)
 
-## 📚 How to Cite
-
-- **APA**  
-  Yen, C.-C. (2025). *Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)*. Zenodo. [https://doi.org/10.5281/zenodo.17388754](https://doi.org/10.5281/zenodo.17388754)
-
-- **BibTeX**  
-  Use the following BibTeX entry to cite this release:
-
-```bibtex
-@misc{yen2025act_v1zh,
-  author    = {Cheng-Chun Yen},
-  title     = {Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)},
-  year      = {2025},
-  publisher = {Zenodo},
-  doi       = {10.5281/zenodo.17388754},
-  url       = {https://doi.org/10.5281/zenodo.17388754},
-  license   = {CC-BY-4.0}
-}
-```
+### Author / 作者
+- **ORCID:** <https://orcid.org/0009-0005-9740-1701>
+- **Website:** <https://cheng-chun-yen.com/>
+- **GitHub:** <https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory>
 
 ---
 
-## 🧾 Verification Records
+## How to Cite / 引用方式
 
-All multi-layer verification data are publicly accessible through:  
+### Latest formal release / 最新正式版引用
+**APA**  
+Yen, C.-C. (2026). *Alzheimer’s Choice Theory: Single-Origin Closed Causal Topological Model — V1.1 Final Draft*. Zenodo. <https://doi.org/10.5281/zenodo.19083901>
 
-- [proofs.json](./proofs.json) – Main machine-readable verification index.  
-- [.verifications/](./.verifications/) – Archived versioned verification snapshots.  
+### Cite all versions / 引用整個版本鏈
+Use / 使用：<https://doi.org/10.5281/zenodo.17388753>
 
-> This dual structure enables both **machine verification** (AI / scripts)  
-> and **human cross-audit** (researchers / engineers) under the  
-> **Closed-Logic Theoretical Preservation Model (CLTPM)**.  
->  
-> These verification structures collectively ensure permanent, cross-platform,  
-> and independently verifiable archival integrity of the Alzheimer's Choice Theory (ACT) repository.
-
----
-
-▶ See also [Three-Layer Archival Integrity Report](Proofs/Archival_Integrity_Report_V1.0.md)
-
-© 2025 Cheng-Chun Yen (顏誠均). All Rights Reserved.
+### Note / 說明
+Subsequent citation and discussion should be based on **V1.1 Final Draft**.  
+後續引用與討論應以 **V1.1 Final Draft** 為準。
 
 ---
 
-## 🕓 Draft Lineage Record
+## Verification Records / 驗證記錄
 
-To ensure transparent provenance while keeping draft content undisclosed,  
-the pre-publication lineage of **Alzheimer’s Choice Theory (ACT)** is archived under:
+This repository maintains a multi-layer verification structure for archival integrity and cross-platform auditability.  
+本庫維持多層驗證結構，以確保長期保存完整性與跨平台可稽核性。
+
+- [`proofs.json`](./proofs.json) — current machine-readable verification index / 現行機器可讀驗證索引  
+- [`.verifications/`](./.verifications/) — archived versioned verification snapshots / 版本化驗證快照  
+- [`Proofs/`](./Proofs/) — human-readable proof and archival documents / 人類可讀的證明與存證文件
+
+This structure supports verification across **Zenodo DOI**, **Arweave TXID**, **GitHub SHA-256**, and repository-level proof records.  
+此結構支援 **Zenodo DOI**、**Arweave TXID**、**GitHub SHA-256** 與 repository 層級證明文件之間的交叉驗證。
+
+---
+
+## Related Supplementary Proof Layer (BSI-ND ZH V1.0)
+
+This repository also preserves the **BSI-ND semantic protection layer** for **Part I** of ACT as a related supplementary proof layer.
+
+本庫同時保留 ACT 第一部分 **BSI-ND 語義保護層**，作為相關的補充性證明層。
+
+- **Location / 位置：** [`Proofs/BSI-ND_ZH_V1.0/`](./Proofs/BSI-ND_ZH_V1.0/)
+- **Version DOI：** <https://doi.org/10.5281/zenodo.17499355>
+- **Folder README：** [`Proofs/BSI-ND_ZH_V1.0/README.md`](./Proofs/BSI-ND_ZH_V1.0/README.md)
+
+---
+
+## Draft Lineage Record / 草稿系譜記錄
+
+To preserve transparent provenance while keeping strong-draft content undisclosed, the pre-publication lineage of ACT is archived here:
+
+為了保留透明的原創時間鏈，同時不公開 strong draft 內容，ACT 的正式公開前版本系譜記錄保存在：
 
 - [`Proofs/Draft_Lineage.md`](./Proofs/Draft_Lineage.md)
 
-> This record contains timestamp-only metadata (DOI and SHA-256)  
-> covering all *Strong Drafts (V0.9 – V1.2)* prior to public release of *V1.0 Final Draft (ZH)*.  
-> Blockchain TXIDs are retained privately within secure verification storage  
-> under the **Closed-Logic Theoretical Preservation Model (CLTPM)**.
+This record documents timestamp-only metadata for the pre-public strong-draft sequence.  
+此記錄保存正式公開前 strong draft 序列的時間戳層級 metadata。
 
 ---
 
-This lineage record forms part of the official verification suite under the CLTPM framework.  
-© 2025 Cheng-Chun Yen (顏誠均). All Rights Reserved.
+## License / 授權
 
+This work is released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
+本作品依 [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) 發布。
+
+© 2025–2026 Cheng-Chun Yen (顏誠均, C.C. Yen). Released under CC BY 4.0.
