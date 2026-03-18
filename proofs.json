@@ -1,39 +1,89 @@
 {
-  "cltpm_id": "ACT-CLTPM-V1.0-ZH",
-  "cltpm_version": "V1.0",
-  "version": "V1.0",
-  "language": "ZH",
-  "release_date": "2025-10-19",
+  "cltpm_id": "ACT-CLTPM-V1.1",
+  "cltpm_version": "V1.1",
+  "version": "V1.1 Final Draft",
+  "release_date": "2026-03-18",
+  "primary_languages": [
+    "ZH",
+    "EN"
+  ],
   "causal_topology_id": "ACT-CT-001",
   "zenodo": {
-    "doi": "10.5281/zenodo.17388754",
+    "version_doi": "10.5281/zenodo.19083901",
     "parent_concept_doi": "10.5281/zenodo.17388753",
-    "url": "https://doi.org/10.5281/zenodo.17388754"
+    "previous_public_version_doi": "10.5281/zenodo.17388754",
+    "url": "https://doi.org/10.5281/zenodo.19083901"
   },
-  "bsi_nd_zh_v1_0": {
-    "version_doi": "10.5281/zenodo.17499355",
-    "folder": "Proofs/BSI-ND_ZH_V1.0/",
-    "bsi_nd_zh_v1_0_index": "Proofs/BSI-ND_ZH_V1.0/ACT-BSI-ND_V1.0_ZH_Proofs-SHA256_TXID.txt"
+  "current_release_package": {
+    "folder": "V1.1_Final_Draft/",
+    "public_release_files_count": 4,
+    "constituent_theory_documents_count": 3,
+    "semantic_authority": {
+      "authoritative_version": "Alzheimers-Choice-Theory-V1.1-Final-Draft-ZH.pdf",
+      "rule": "The Chinese version is the authoritative source text. The English and mathematical versions are companion representational forms derived from the Chinese original. In case of ambiguity, inconsistency, or interpretive conflict, the Chinese original prevails."
+    },
+    "revision_statement": "V1.1 Final Draft is a revision based on V1.0 Final Draft. It incorporates textual refinements, errata corrections, and clearer formulation of structural and falsifiability statements, while preserving the same core logical structure, causal topology, principal mechanisms, and principal conclusions. This revision does not constitute a new theory or an independent work.",
+    "core_causal_topology": "NT -> D -> AD",
+    "files": [
+      {
+        "filename": "Alzheimers-Choice-Theory-V1.1-Final-Draft-ZH.pdf",
+        "repo_path": "V1.1_Final_Draft/Alzheimers-Choice-Theory-V1.1-Final-Draft-ZH.pdf",
+        "sha256": "F030CD8E08CAC6DDCCC931766AB35D6A3044DDB2257C2C7F7ED4099B74BB2076",
+        "arweave_txid": "pLsk7-_PMJSqcECONNnJWKs65rkZL0rYz_biMO6ICEw",
+        "arweave_url": "https://arweave.net/pLsk7-_PMJSqcECONNnJWKs65rkZL0rYz_biMO6ICEw",
+        "role": "authoritative_text"
+      },
+      {
+        "filename": "Alzheimers-Choice-Theory-V1.1-Final-Draft-EN.pdf",
+        "repo_path": "V1.1_Final_Draft/Alzheimers-Choice-Theory-V1.1-Final-Draft-EN.pdf",
+        "sha256": "CA9C5EC9208B7015113B97D16C26BF2C87E96F922C252A77BEDA007E1BEEB8EF",
+        "arweave_txid": "KrFRh7xFZlQmn6N92HxKf7Qn1XwC1m75lMC5fidYko8",
+        "arweave_url": "https://arweave.net/KrFRh7xFZlQmn6N92HxKf7Qn1XwC1m75lMC5fidYko8",
+        "role": "english_companion_version"
+      },
+      {
+        "filename": "Alzheimers-Choice-Theory-V1.1-Final-Draft-math.pdf",
+        "repo_path": "V1.1_Final_Draft/Alzheimers-Choice-Theory-V1.1-Final-Draft-math.pdf",
+        "sha256": "8DC100C39CB73598F51F0B3754F17DA3FD28798D8F5F0ED823F287102DED0D1C",
+        "arweave_txid": "yEfUMDPlf8j9IOF0J6lJKKKV9gQkiLiEhI9Wxj4lYFU",
+        "arweave_url": "https://arweave.net/yEfUMDPlf8j9IOF0J6lJKKKV9gQkiLiEhI9Wxj4lYFU",
+        "role": "mathematical_formalization_companion_document"
+      },
+      {
+        "filename": "ACT-V1.1-Publication-Manifest.pdf",
+        "repo_path": "V1.1_Final_Draft/ACT-V1.1-Publication-Manifest.pdf",
+        "sha256": "640A8EB89716CE6EC97F22AC1113BD4925C05705DB724EFDB5905C71E1A98367",
+        "arweave_txid": "pon5aFuQePDDPSH7o80_J_D1XYU_Y8KmV4ye5e9M5kA",
+        "arweave_url": "https://arweave.net/pon5aFuQePDDPSH7o80_J_D1XYU_Y8KmV4ye5e9M5kA",
+        "role": "publication_manifest_and_integrity_declaration"
+      }
+    ]
   },
-  "arweave": {
-    "txid": "Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc",
-    "url": "https://arweave.net/Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc"
+  "related_legacy_records": {
+    "v1_0_public_release": {
+      "doi": "10.5281/zenodo.17388754",
+      "repo_path": "V1.0_Final_Draft_ZH/Alzheimers-Choice-Theory-V1.0-Final-Draft-ZH.pdf",
+      "sha256": "D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67",
+      "ardrive_txid": "Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc",
+      "status": "First public release"
+    },
+    "bsi_nd_zh_v1_0": {
+      "version_doi": "10.5281/zenodo.17499355",
+      "folder": "Proofs/BSI-ND_ZH_V1.0/",
+      "index": "Proofs/BSI-ND_ZH_V1.0/ACT-BSI-ND_V1.0_ZH_Proofs-SHA256_TXID.txt",
+      "relation": "Related supplementary proof layer for V1.0 Final Draft (ZH)"
+    }
   },
   "github": {
-    "checksum_type": "sha256",
-    "sha256": "D0B63CF4285BEEB911A52F9E12B0E6E2CF5783D4E38B831BB4A9A7EDDB76CA67",
-    "sha256_file": "https://raw.githubusercontent.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory/refs/heads/main/Proofs/SHA256.txt",
-    "commit": "368942c"
-  },
-  "proofs": {
-    "audit_certificate": "Proofs/Closed-Logic_Audit_Certificate_V1.0.md",
-    "technical_remark": "Proofs/Technical_Remark_GPT5_Logic_Consistency_Audit_Record.md",
-    "archival_report": "Proofs/Archival_Integrity_Report_V1.0.md",
-    "release_notes": "Proofs/Release_Notes_V1.0_ZH.md"
+    "repository": "https://github.com/Cheng-Chun-Yen/Alzheimers-Choice-Theory",
+    "current_package_folder": "V1.1_Final_Draft/",
+    "archived_verifications_folder": ".verifications/",
+    "proofs_folder": "Proofs/",
+    "checksum_type": "sha256"
   },
   "cltpm_layers": [
     "Zenodo DOI",
-    "ArDrive TXID",
+    "Arweave TXID",
     "GitHub SHA256",
     "Proofs JSON Index"
   ],
@@ -41,6 +91,18 @@
     "shell": "verify.sh",
     "powershell": "verify.ps1"
   },
-  "last_verified_by": "GPT-5 Logic Consistency Audit — 2025-11-01",
-  "timestamp": "2025-10-19T11:00+08:00"
+  "validation": {
+    "integrity_sources": [
+      "V1.1_Final_Draft/metadata.json",
+      "V1.1_Final_Draft/ACT-V1.1-Publication-Manifest.pdf",
+      ".verifications/",
+      "Proofs/"
+    ],
+    "automated_checks": [
+      "All listed release-package files are present in the repository",
+      "SHA-256 digests match local recomputation",
+      "TXIDs resolve on Arweave",
+      "DOI relations are consistent with the Zenodo version chain"
+    ]
+  }
 }
