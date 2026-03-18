@@ -5,6 +5,49 @@
 
 ---
 
+## [v1.1-final-draft] - 2026-03-18 (Asia/Taipei)
+
+**Alzheimer’s Choice Theory: Single-Origin Closed Causal Topological Model — V1.1 Final Draft**  
+**Version DOI**: [10.5281/zenodo.19083901](https://doi.org/10.5281/zenodo.19083901)  
+**Concept DOI**: [10.5281/zenodo.17388753](https://doi.org/10.5281/zenodo.17388753)
+
+---
+
+### Added
+- 正式發佈 **V1.1 Final Draft** 公開包。  
+- 新增四份正式公開檔案：  
+  - `Alzheimers-Choice-Theory-V1.1-Final-Draft-ZH.pdf`  
+  - `Alzheimers-Choice-Theory-V1.1-Final-Draft-EN.pdf`  
+  - `Alzheimers-Choice-Theory-V1.1-Final-Draft-math.pdf`  
+  - `ACT-V1.1-Publication-Manifest.pdf`  
+- 新增英文版與數學形式化 companion document。  
+- 新增 publication manifest，整合檔案註冊、SHA-256 與 Arweave TXID 驗證資訊。  
+
+---
+
+### Improved
+- 依據 **V1.0 Final Draft** 進行修訂，補入文字精修、錯誤更正，以及更清楚的結構與可證偽性表述。  
+- 保留相同核心邏輯結構、因果拓樸、主要機制與主要結論。  
+- 明確宣告：本次修訂 **不構成新理論或獨立作品**。  
+- 明確宣告：中文原文為唯一權威文本，英文版與數學版為 companion representational forms。  
+
+---
+
+### Verification
+- **ZH SHA-256**: `F030CD8E08CAC6DDCCC931766AB35D6A3044DDB2257C2C7F7ED4099B74BB2076`  
+- **EN SHA-256**: `CA9C5EC9208B7015113B97D16C26BF2C87E96F922C252A77BEDA007E1BEEB8EF`  
+- **Math SHA-256**: `8DC100C39CB73598F51F0B3754F17DA3FD28798D8F5F0ED823F287102DED0D1C`  
+- **Manifest SHA-256**: `640A8EB89716CE6EC97F22AC1113BD4925C05705DB724EFDB5905C71E1A98367`  
+- **對應驗證資訊**將同步佈署於 `proofs.json`、`.verifications/` 與 `Proofs/`。  
+
+---
+
+**Version Stability Statement**  
+本條目記錄 **V1.1 Final Draft** 的正式發布。  
+其內容層屬於封閉理論版本記錄；後續如新增 metadata、鏡像位置或驗證索引，僅屬附加性同步更新，不改變本次正式發布之理論內容與版本身份。  
+
+---
+
 ## [v1.0-zh] - 2025-10-19 (Asia/Taipei)
 
 **Alzheimer’s Choice Theory — V1.0 Final Draft (ZH)**  
