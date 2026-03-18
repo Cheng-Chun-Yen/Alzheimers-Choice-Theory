@@ -1,1 +1,26 @@
-Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc
+# Alzheimer's Choice Theory (ACT)
+# ArDrive / Arweave TXID Verification Record
+# Maintained under the Closed-Logic Theoretical Preservation Model (CLTPM)
+
+# ---------------------------------------------------------
+# Public Releases
+# ---------------------------------------------------------
+V1.0 Final Draft (ZH)  (2025-10-19)  Mk4iB0EVYKIQRVE2zac3FLUQ25therqQfVXxxAnkwYc
+
+V1.1 Final Draft Package  (2026-03-18)
+Alzheimers-Choice-Theory-V1.1-Final-Draft-ZH.pdf        pLsk7-_PMJSqcECONNnJWKs65rkZL0rYz_biMO6ICEw
+Alzheimers-Choice-Theory-V1.1-Final-Draft-EN.pdf        KrFRh7xFZlQmn6N92HxKf7Qn1XwC1m75lMC5fidYko8
+Alzheimers-Choice-Theory-V1.1-Final-Draft-math.pdf      yEfUMDPlf8j9IOF0J6lJKKKV9gQkiLiEhI9Wxj4lYFU
+ACT-V1.1-Publication-Manifest.pdf                       pon5aFuQePDDPSH7o80_J_D1XYU_Y8KmV4ye5e9M5kA
+
+# ---------------------------------------------------------
+# Notes
+# ---------------------------------------------------------
+# Each TXID corresponds to a publicly released archival record stored on ArDrive / Arweave.
+# V1.0 Final Draft (ZH) is the first public release.
+# V1.1 Final Draft is a four-file public release package.
+# For V1.1, ACT-V1.1-Publication-Manifest.pdf serves as the package-level integrity anchor.
+#
+# Strong draft TXIDs are not listed here in the public record.
+# Public draft-lineage disclosure is handled through DOI and SHA-256 records, while
+# complete strong-draft TXID disclosure is reserved for formal legal or rights-verification use.
