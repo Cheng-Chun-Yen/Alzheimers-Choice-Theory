@@ -1,0 +1,7 @@
+{
+  "version": "V1.1 Final Draft",
+  "snapshot": "2026-03-18T19:00+08:00",
+  "based_on": "../proofs.json",
+  "integrity_hash": "640A8EB89716CE6EC97F22AC1113BD4925C05705DB724EFDB5905C71E1A98367",
+  "note": "This is a frozen archival snapshot of proofs.json for V1.1 under CLTPM structure. The integrity anchor for the V1.1 publication package is ACT-V1.1-Publication-Manifest.pdf."
+}
